@@ -3,7 +3,7 @@ import numpy as np
 results = []
 
 for turn in range(10):
-    print("Toss the coin (Yes)/(No)... ")
+    print("Toss the coin Yes/(No)... ")
     prompt = input()
     if prompt == "Yes":
         coin = np.random.randint(0,2)
