@@ -1,7 +1,7 @@
 # coin_toss_game
-Coin Toss Game
-
-# Using for loop; 
-# Using conditional statements; 
-# Using Numpy library, random function and randint function; 
-# List manipulation;
+The game involves the use of:
+1. For loop;
+2. Input function;
+3. Conditional statements;
+4. Randint function from the Numpy Library
+5. List manipulation
