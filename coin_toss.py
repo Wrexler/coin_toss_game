@@ -2,7 +2,7 @@ import numpy as np
 
 results = []
 
-for turn in range(10):
+for turn in range(100):
     print("Toss the coin Yes/(No)... ")
     prompt = input()
     if prompt == "Yes":
